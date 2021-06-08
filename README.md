@@ -1,5 +1,7 @@
 # ✨🏳️‍🌈 curses-pride 🏳️‍🌈✨
 
+![demo: pride](https://user-images.githubusercontent.com/13816979/121213324-6a501600-c87e-11eb-8c78-ea288b0e5fef.gif)
+
 ![code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)
 
  

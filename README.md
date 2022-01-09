@@ -11,7 +11,7 @@ A simple terminal application, for showing off your fabulousness with pride flag
 ```bash
 sudo cp ./src/pride.py /usr/local/bin
 sudo mv /usr/local/bin/pride.py /usr/local/bin/pride
-sudo cmhod +x /usr/local/bin/pride
+sudo chmod +x /usr/local/bin/pride
 ```
 
 ## Usage

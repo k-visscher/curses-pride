@@ -3,6 +3,8 @@ import sys
 import random
 from dataclasses import dataclass
 
+from typing import List
+
 from argparse import ArgumentParser
 
 import curses
@@ -181,7 +183,7 @@ def draw(pride_flag: PrideFlag) -> None:
     return drawing_routine
 
 
-def draw_all(pride_flags: list[PrideFlag]) -> None:
+def draw_all(pride_flags: List[PrideFlag]) -> None:
     def drawing_routine(window: curses.window):
         running = True
         while running:
